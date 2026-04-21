@@ -1,0 +1,6 @@
+com\edusync\quiz\service\QuizService.class
+com\edusync\quiz\EduSyncQuizApplication.class
+com\edusync\quiz\repository\QuestionRepository.class
+com\edusync\quiz\config\CorsConfig.class
+com\edusync\quiz\controller\QuizController.class
+com\edusync\quiz\entity\Question.class
